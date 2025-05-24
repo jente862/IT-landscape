@@ -15,7 +15,7 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-push-image:
+  build-and-push-image-jente:
     runs-on: ubuntu-latest
 
     steps:
